@@ -131,6 +131,9 @@
   <ItemGroup>
     <ClCompile Include="Fighter Runner.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Random.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
